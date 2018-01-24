@@ -1,0 +1,4 @@
+messages:
+  login: "entrou no servidor!"
+  logout: "saiu do servidor!"
+  death: "teve uma morte horrível!"
